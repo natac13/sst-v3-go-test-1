@@ -1,0 +1,1 @@
+# sst-go-lambda-dynamo
